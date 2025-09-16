@@ -1,12 +1,4 @@
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=Nogs0&theme=maroongold&show_icons=true&include_all_commits&card_width=420" />
-  </a>
-</div>
-
-##
-
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=git,cs,docker,sqlserver,angular,mysql,reactnative,aws,html" />
