@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,cs,docker,sqlserver,angular,mysql,reactnative,aws,html" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,net,docker,git,aws,sqlserver,mysql,reactnative,angular,html,css,sass,js" />
   </a>
 </p>
 
