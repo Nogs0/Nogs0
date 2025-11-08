@@ -16,12 +16,9 @@ Atuo na liderança do desenvolvimento de testes unitários do software da empres
 Desejo participar de projetos realmente grandes, com centenas de milhares de usuários, só de imaginar nesse desafio gigantesco já fico animado para discutir soluções para cada vez aprender mais e entregar resultados além de satisfatórios, que sejam animadores e relevantes.
 
 ---
-
-&nbsp;
-<div style="display: flex; align-items: center; justify-content: center">
+<div align="center">
     <a href="https://github.com/Nogs0"><img src="https://github-readme-stats.vercel.app/api?username=Nogs0&theme=highcontrast&show_icons=true&include_all_commits=true"/></a>
 </div>
-&nbsp;
 
 ---
 <p align="center">
