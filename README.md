@@ -19,7 +19,7 @@ Desejo participar de projetos realmente grandes, com centenas de milhares de usu
 
 &nbsp;
 <div style="display: flex; align-items: center; justify-content: center">
-    <a href="https://github.com/Nogs0"><img src="https://github-readme-stats.vercel.app/api?username=Nogs0&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/></a>
+    <a href="https://github.com/Nogs0"><img src="https://github-readme-stats.vercel.app/api?username=Nogs0&theme=highcontrast&show_icons=true&include_all_commits=true"/></a>
 </div>
 &nbsp;
 
