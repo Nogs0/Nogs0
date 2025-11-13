@@ -5,7 +5,7 @@ Agora estou focado em aprender VueJS e melhorar a performance de APIs .NET.
 
 # Habilidades técnicas
 - **Linguagens de programação:** C#, JS (além de boas experiências com TS e Java)
-- **Frameworks**: .NET, Angular, react-native (ah mais é uma biblioteca, enfim...)
+- **Frameworks**: .NET, Angular, react-native (ah mas é uma biblioteca, enfim...)
 - **Bancos de dados**: SQL Server, MySQL, PostgreSQL, SQLite (Mobile)
 - **Outros**: Docker, Google Cloud, AWS
 
